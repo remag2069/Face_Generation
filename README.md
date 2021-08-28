@@ -13,7 +13,7 @@ Generating new faces with neural nets, specifically using a feed forwards neural
 **ABOMINATIONS ALERT!!!!!**  
 1. Face 1:  
   (0.0, 0.0, 0.45, 0.15, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0)  
-  ![image](https://user-images.githubusercontent.com/51650745/131207563-71edbd3e-c02e-46d9-a748-d763e5dbe0cf.png)
+  ![image](https://user-images.githubusercontent.com/51650745/131207881-6b40c947-e843-4dce-9894-302435bedd6f.png)
 
 2. Face 2:  
   (0.0, 0.0, 0.45, 0.15, 0.0, 0.0, 0.0, 0.0, 0.0, -0.35)  
